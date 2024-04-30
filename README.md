@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi there, I’m Daniel Antiporta, an Associate in the Department of Epidemiology at the Johns Hopkins School of Public Health (USA). 
+- 🎓 My background is in Epidemiology, Public Health and Nutrition. Find more about myself in my (Academic)[https://publichealth.jhu.edu/faculty/4490/daniel-antiporta] and (Professional)[https://www.linkedin.com/in/danielantiporta/] profiles.
+- 💬 Ask me about Social Epidemiology, Health Equity and Methodological Research.
+  
 
 <!--
 **AntiportaD/AntiportaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
